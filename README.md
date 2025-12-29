@@ -23,7 +23,7 @@ It targets [Books to Scrape](http://books.toscrape.com/), a sandbox environment 
 
 1.  Navigate to the project directory:
     ```bash
-    cd python/web_scraper
+    cd web_scraper
     ```
 
 2.  Install dependencies:
